@@ -1,4 +1,4 @@
-# GaSSia-Core
+# SpEcTrA
 
 **Galaxy Spectra & Type Ia Supernova Analysis and Correlation!!**
 
