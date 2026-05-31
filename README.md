@@ -1,10 +1,10 @@
-# SpEcTrA
+# SPeCtRa 
 
-**Galaxy Spectra & Type Ia Supernova Analysis and Correlation!!**
+**Spectroscopic Properties of CSP host galaxies and hubble Residual correlations**
 
 ## Overview
 
-**GaSSia-Core** is a modular pipeline for analyzing galaxy spectra and investigating correlations between host galaxy spectral properties and Type Ia supernova characteristics. The pipeline integrates tools from the Python scientific ecosystem, including:
+**SPeCtRa** is a modular pipeline for analyzing galaxy spectra and investigating correlations between host galaxy spectral properties and Type Ia supernova characteristics. The pipeline integrates tools from the Python scientific ecosystem, including:
 
 - `Astropy`
 - `NumPy`
